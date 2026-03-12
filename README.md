@@ -88,3 +88,6 @@ SimpleHillClimbing()
 <hr>
 <h2>Output:</h2>
 <img width="339" height="844" alt="image" src="https://github.com/user-attachments/assets/764d8ef2-aa21-48e4-94a5-deeb57011283" />
+<hr>
+<h2>Result:</h2>
+The Simple Hill Climbing Algorithm was successfully implemented.
